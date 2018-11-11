@@ -1,0 +1,42 @@
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\Bot Application.dll.config
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\Bot Application.dll
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\Bot Application.pdb
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\Autofac.dll
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\Chronic.dll
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\Microsoft.Bot.Builder.dll
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\Microsoft.Bot.Connector.dll
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\Newtonsoft.Json.dll
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\System.Net.Http.Formatting.dll
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\System.Web.Http.dll
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\System.Web.Http.WebHost.dll
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\Autofac.xml
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\Microsoft.Bot.Builder.xml
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\Microsoft.Bot.Connector.xml
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\Newtonsoft.Json.xml
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\System.Net.Http.Formatting.xml
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\System.Web.Http.xml
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\System.Web.Http.WebHost.xml
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\student\source\repos\Bot Application5\Bot Application5\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\student\source\repos\Bot Application5\Bot Application5\obj\Debug\Bot Application5.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Bot Application5\Bot Application5\obj\Debug\Bot Application5.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Bot Application5\Bot Application5\obj\Debug\Bot Application5.csproj.CopyComplete
+C:\Users\student\source\repos\Bot Application5\Bot Application5\obj\Debug\Bot Application.dll
+C:\Users\student\source\repos\Bot Application5\Bot Application5\obj\Debug\Bot Application.pdb
